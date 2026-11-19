@@ -31,7 +31,7 @@ export function FAQ() {
         <div className="lg:col-span-4">
           <div className="lg:sticky lg:top-28">
             <Reveal>
-              <SectionTag n="07">Preguntas frecuentes</SectionTag>
+              <SectionTag n="06">Preguntas frecuentes</SectionTag>
             </Reveal>
             <h2 id="faq-title" className="display mt-5 text-[clamp(2.4rem,5.4vw,4.2rem)] text-forest">
               <SplitTitle lines={['Todo lo que', <span className="italic text-olive">quieres saber.</span>]} />

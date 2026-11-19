@@ -174,7 +174,7 @@ export const NEEDS: {
     id: 'proteina',
     label: 'Crunchy',
     title: 'Ideas para después de entrenar',
-    description: 'Prueba combinaciones para batidos y bowls; consulta la etiqueta para revisar la información nutricional.',
+    description: 'Ideas para añadir a batidos, bowls y meriendas. Consulta la etiqueta para conocer la información nutricional.',
     accent: '#283B2B',
     featured: 'mani-crunchy',
   },

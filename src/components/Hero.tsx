@@ -50,7 +50,7 @@ export function Hero() {
               inView={false}
               delay={0.1}
               lines={[
-                'Frutos secos',
+                'Mantequillas',
                 <>
                   para <span className="text-cacao italic">disfrutar</span>
                 </>,
